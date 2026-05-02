@@ -4,12 +4,14 @@ A Hate speech classifier using NLP techniques to classify if comments are neutra
 
 ## How to run?
 
-'''bash
+```bash
 conda create -n venv python==3.12 -y
-'''
-'''bash
+```
+
+```bash
 conda activate venv
-'''
-'''bash
+```
+
+```bash
 pip install -r requirements.txt
-'''
+```
