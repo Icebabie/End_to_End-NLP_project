@@ -1,7 +1,7 @@
-from Hate_speech_classifier.configuration.gcloud_syncer import GcloudSync
-from Hate_speech_classifier.logger import logging
-from Hate_speech_classifier.exception import CustomException
-import sys
+# from Hate_speech_classifier.configuration.gcloud_syncer import GcloudSync
+# from Hate_speech_classifier.logger import logging
+# from Hate_speech_classifier.exception import CustomException
+# import sys
 
 # logging.info("This is a demo log message from demo.py to check if the logging is working properly.")
 # try:

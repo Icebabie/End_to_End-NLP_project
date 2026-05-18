@@ -15,3 +15,12 @@ conda activate venv
 ```bash
 pip install -r requirements.txt
 ```
+
+## Project Workflow
+
+- constants
+- config_entity
+- atrifact_entity
+- components
+- pipeline
+- app.py
